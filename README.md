@@ -24,23 +24,22 @@ Hi! I'm Sara, also known as **Bunisu**. ✨ I'm studying Web Application Develop
 ![GitHub](https://img.shields.io/badge/GitHub-FFE4EC?style=for-the-badge&logo=github&logoColor=8E5572)
 ![Linux](https://img.shields.io/badge/Linux-F8BBD0?style=for-the-badge&logo=linux&logoColor=8E5572)
 
-## 📊 GitHub statistics
+## 📊 GitHub Statistics
 
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Bunisu&show_icons=true&bg_color=FFFFFF&title_color=8E5572&text_color=8E5572&icon_color=E88CAA&border_color=F8BBD0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bunisu&show_icons=true&theme=default&title_color=E88CAA&icon_color=F8BBD0&text_color=8E5572&bg_color=FFFFFF&hide_border=true)
 
-## 💻 Most used languages
+## 💻 Most Used Languages
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&bg_color=FFFFFF&title_color=8E5572&text_color=8E5572&border_color=F8BBD0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bunisu&layout=compact&title_color=E88CAA&text_color=8E5572&bg_color=FFFFFF&hide_border=true)
 
-## 🌸 Contribution activity
+## 🌸 Contribution Activity
 
-![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Bunisu&bg_color=FFFFFF&color=8E5572&line=E88CAA&point=F8BBD0&area=true&area_color=FFE4EC&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bunisu&bg_color=FFFFFF&color=8E5572&line=E88CAA&point=F8BBD0&area=true&hide_border=true)
 
-## 🐍 Sakura contribution snake
+## 🐍 Sakura Contribution Snake
 
-![Animated contribution snake](https://raw.githubusercontent.com/Bunisu/Bunisu/output/github-snake.svg)
+![Sakura Snake](https://raw.githubusercontent.com/bunisu/bunisu/output/github-contribution-grid-snake.svg)
 
-*The snake appears after the GitHub Action runs successfully.*
 
 
 ## 🌸 My Contribution Snake
