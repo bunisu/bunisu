@@ -1,4 +1,8 @@
 
+
+![Banner animado de S. Sara C. P. | Bunisu](banner-bunisu-github.gif)
+
+
 # 🌸 ¡Hola! Soy S. Sara C. P.
 
 *También conocida como Bunisu* 🌙
