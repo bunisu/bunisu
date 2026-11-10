@@ -20,7 +20,7 @@
 - 📊 Experiencia profesional en análisis de datos.
 - ☕ Aprendiendo y mejorando mis conocimientos de Java.
 - 🗄️ Especial interés en bases de datos.
-- 🌍 Interés profesional en España y Marruecos.
+- 🌍 Interés profesional el MUNDO.
 
 ## ✨ Mi objetivo
 
