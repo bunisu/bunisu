@@ -42,6 +42,11 @@ Hi! I'm Sara, also known as **Bunisu**. ✨ I'm studying Web Application Develop
 
 *The snake appears after the GitHub Action runs successfully.*
 
+
+## 🌸 My Contribution Snake
+
+![Sakura Snake](https://raw.githubusercontent.com/Bunisu/Bunisu/output/github-contribution-grid-snake.svg)
+
 ---
 
 *Made with curiosity, code and a little sakura magic.* 🌸
