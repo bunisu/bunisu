@@ -26,7 +26,7 @@ Hi! I'm Sara, also known as **Bunisu**. ✨ I'm studying Web Application Develop
 
 ## 📊 GitHub statistics
 
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&bg_color=FFFFFF&title_color=8E5572&text_color=8E5572&icon_color=E88CAA&border_color=F8BBD0)
+![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Bunisu&show_icons=true&bg_color=FFFFFF&title_color=8E5572&text_color=8E5572&icon_color=E88CAA&border_color=F8BBD0)
 
 ## 💻 Most used languages
 
@@ -34,11 +34,11 @@ Hi! I'm Sara, also known as **Bunisu**. ✨ I'm studying Web Application Develop
 
 ## 🌸 Contribution activity
 
-![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=FFFFFF&color=8E5572&line=E88CAA&point=F8BBD0&area=true&area_color=FFE4EC&hide_border=true)
+![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Bunisu&bg_color=FFFFFF&color=8E5572&line=E88CAA&point=F8BBD0&area=true&area_color=FFE4EC&hide_border=true)
 
 ## 🐍 Sakura contribution snake
 
-![Animated contribution snake](https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake.svg)
+![Animated contribution snake](https://raw.githubusercontent.com/Bunisu/Bunisu/output/github-snake.svg)
 
 *The snake appears after the GitHub Action runs successfully.*
 
