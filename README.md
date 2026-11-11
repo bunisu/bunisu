@@ -34,7 +34,7 @@ Hi! I'm Sara, also known as **Bunisu**. ✨ I'm studying Web Application Develop
 
 ## 🌸 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bunisu&bg_color=FFFFFF&color=8E5572&line=E88CAA&point=F8BBD0&area=true&hide_border=true)
+![Contribution Activity](profile-summary-card-output/default/0-profile-details.svg)
 
 
 
