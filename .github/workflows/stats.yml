@@ -1,10 +1,11 @@
 
+
 name: Generate Sakura Stats
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 1 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,12 +13,28 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate statistics
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: bunisu
           BRANCH_NAME: main
-          UTC_OFFSET: 1
-          AUTO_PUSH: true
+          TIME_ZONE: Europe/Madrid
+          THEME: default
+          AUTO_PUSH: false
+
+      - name: Publish statistics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Sakura statistics"
+            git push
+          fi
