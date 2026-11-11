@@ -24,13 +24,7 @@ Hi! I'm Sara, also known as **Bunisu**. ✨ I'm studying Web Application Develop
 ![GitHub](https://img.shields.io/badge/GitHub-FFE4EC?style=for-the-badge&logo=github&logoColor=8E5572)
 ![Linux](https://img.shields.io/badge/Linux-F8BBD0?style=for-the-badge&logo=linux&logoColor=8E5572)
 
-## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bunisu&show_icons=true&theme=default&title_color=E88CAA&icon_color=F8BBD0&text_color=8E5572&bg_color=FFFFFF&hide_border=true)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunisu&layout=compact&title_color=E88CAA&text_color=8E5572&bg_color=FFFFFF&hide_border=true)
 
 
 
