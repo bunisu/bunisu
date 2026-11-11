@@ -32,9 +32,6 @@ Hi! I'm Sara, also known as **Bunisu**. ✨ I'm studying Web Application Develop
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bunisu&layout=compact&title_color=E88CAA&text_color=8E5572&bg_color=FFFFFF&hide_border=true)
 
-## 🌸 Contribution Activity
-
-![Contribution Activity](profile-summary-card-output/default/0-profile-details.svg)
 
 
 
