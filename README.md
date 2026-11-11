@@ -38,6 +38,10 @@ Hi! I'm Sara, also known as **Bunisu**. ✨ I'm studying Web Application Develop
 
 
 
+## 🌸 GitHub Contribution Overview
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bunisu&theme=rose_pine)
+
 
 
 ## 🌸 My Contribution Snake
